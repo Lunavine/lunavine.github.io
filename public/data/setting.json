@@ -1,0 +1,17 @@
+{
+  "datafileName": "data.csv",
+  "fontfileName": "font.ttf",
+
+  "productNameIndex": 2,
+  "categoryIndex": 5,
+  "qtIndex": 14,
+  "displayPriceIndex": 7,
+  "inorder": true,
+
+  "titleFontsize": 16,
+  "itemFontsize": 16,
+  "leftRightMobileMargin": 35,
+  "leftRightPCMargin": 100,
+  "lineSpacing": 12,
+  "mobileMaxWidth": 800
+}
