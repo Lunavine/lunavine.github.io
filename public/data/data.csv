@@ -14,7 +14,7 @@
 8028938020091,Cantina Zaccagnini Cerasuolo d'Abruzzo 2020,0,75000,Italy - Rose,Italy,75000,Montepulciano,,,,,2022-02-28 17:14:59,0
 8028938090919,Cantina Zaccagnini Il Bianco di Cicio 2020,0,88000,Italy - White,Italy,88000,Trebbiano,,,,,2022-02-28 17:11:25,0
 9314500092337,Cape Mentelle Cabernet Sauvignon 2014,0,150000,Australia - Red,Australia,150000,Cabernet Sauvignon,,,,,2022-03-17 19:38:54,1
-2056125826078,Cape Mentelle Sauvignon Blanc Semillon 2019,0,55000,Australia - White,Australia,55000,Sauvignon Blanc,32000,,,,2022-04-04 16:26:28,3
+2056125826078,Cape Mentelle Sauvignon Blanc Semillon 2019,0,55000,Australia - White,Australia,55000,Sauvignon Blanc,32000,,,,2022-04-04 16:26:28,1
 2053942603127,Cape Mentelle Shiraz Cabernet 2018,0,55000,Australia - Red,Australia,55000,Caber - Shiraz,35000,,,,2022-04-04 16:28:03,9
 083837005769,Castle Rock Central Coast Chardonnay 2018,0,85000,U.S.A - White,U.S.A,85000,Chardonnay,,,,,2022-02-28 17:15:48,1
 8809795473332,Caymus Vineyards Cabernet Sauvignon 2019,0,195000,U.S.A - Red,U.S.A,195000,Cabernet Sauvignon,,,,,2022-02-28 16:24:40,12
@@ -38,7 +38,7 @@
 2069975317726,Chateau Mouton Rothschild Pauillac(Premier Grand CRU Classe) 2013,0,0,France - Red,France,,Blend,,,,,2022-03-16 17:13:21,1
 8802340279199,Chateau Puygueraud Francs - Cotes de Bordeaux 2016,0,0,France - Red,France,,Blend,,,,,2022-02-28 16:36:36,0
 8809026821345,Chateau Talbot Saint-Julien(Grand CRU Classe) 2003,0,0,France - Red,France,,Blend,,,,,2022-03-01 17:59:29,1
-3760167974718,Chateau d'Esclans Whispering Angel Rose 2020,0,58000,France - Rose,France,58000,Blend,,,,,2022-03-01 16:52:49,3
+3760167974718,Chateau d'Esclans Whispering Angel Rose 2020,0,58000,France - Rose,France,58000,Blend,,,,,2022-03-01 16:52:49,1
 2058441128430,Chateau de Parenchere Cuvee Raphael 2017,0,68000,France - Red,France,68000,Blend,38000,,28000,,2022-03-02 16:26:18,1
 3760124891256,Chateau de la Chapelle Bordeaux 2018,0,68000,France - Red,France,68000,Blend,,,,,2022-02-28 16:51:47,1
 2099735321977,Christian Moreau Pere & Fils Chablis 2020,0,85000,France - White,France,85000,Pinot Gris,,,,,2022-02-28 17:17:27,0
@@ -65,18 +65,18 @@
 2098868203341,Domaine Didier et Patricia Chevillon Gevrey-Chmbertin 2018,0,0,France - Red,France,,,,,,,2022-04-25 15:16:49,1
 2033478873669,Domaine Jessiaume Beaune 1er CRU 'Les Cents Vignes' 2017,0,0,France - Red,France,,,,,,,2022-04-25 15:09:38,0
 2008508210264,Domaine Jessiaume Volnay 2017,0,0,France - Red,France,,,,,,,2022-04-25 15:13:54,2
-8809706768120,Domaine Jobard-Morey Meursault2018,0,0,France - White,France,,,,,,,2022-04-12 17:46:36,3
+8809706768120,Domaine Jobard-Morey Meursault2018,0,0,France - White,France,,,,,,,2022-04-12 17:46:36,1
 8809521454178,Domaine Marc Morey Puligny-Montrachet 1er CRU 'Les Referts' 2018,0,0,France - White,France,,Chardonnay,240000,,185000,,2022-03-08 15:23:00,1
 2009682554434,Domaine Meo-Camuset Chambolle-Musigny 1er CRU 'Les Cras' 2019,0,0,France - Red,France,,Pinot Noir,385000,,285000,,2022-03-11 15:56:38,0
 2051182406256,Domaine Michel Noellat Clos de Vougeot Grand CRU 2017,0,0,France - Red,France,,,,,,,2022-04-18 18:01:44,1
 2036142484796,Domaine Michel Noellat Nuit-Saint-Georges 1er CRU 'Aux Boudots' 2016,0,0,France - Red,France,,,,,,,2022-04-18 17:59:58,2
-2036361395330,Domaine Sylvain Morey Bourgogne Aligote 2019,0,0,France - White,France,,Chardonnay,,,,,2022-04-19 16:24:07,5
+2036361395330,Domaine Sylvain Morey Bourgogne Aligote 2019,0,0,France - White,France,,Chardonnay,,,,,2022-04-19 16:24:07,4
 2010694840231,Domaine Sylvain Morey Chassagne-Montrachet Blanc 2019,0,195000,France - White,France,195000,Chardonnay,,,,,2022-04-19 16:22:37,3
 2054355333588,Domaine Sylvain Morey Santenay 1er CRU 'Grand Clos Rousseau' 2018,0,0,France - Red,France,,Pinot Noir,,,,,2022-03-01 18:08:36,0
 3355820083755,Domaine de la Vougeraie Chardonnay Terres de Famille 2019,0,120000,France - White,France,120000,Chardonnay,,,,,2022-03-24 13:39:43,0
 2099694166299,Domaine de la Vougeraie Cote de Beaune Les Pierres Blanches Blanc 2019,0,120000,France - White,France,120000,Chardonnay,68000,,,,2022-03-18 17:48:59,0
 2033979037683,Domaine de la Vougeraie Pinot Noir Terres de Famille 2019,0,120000,France - Red,France,120000,Pinot Noir,75000,,,,2022-03-24 13:40:38,0
-2006260230193,Domaine de la Vougeraie Vougeot 1er CRU 'Le Clos Blanc de Vougeot'(Monopole) 2019,0,380000,France - White,France,380000,Chardonnay,280000,,,,2022-03-18 17:47:13,3
+2006260230193,Domaine de la Vougeraie Vougeot 1er CRU 'Le Clos Blanc de Vougeot'(Monopole) 2019,0,380000,France - White,France,380000,Chardonnay,280000,,,,2022-03-18 17:47:13,2
 3700587107204,Domaine des Perdrix Nuit-Saint-Georges Aux Perdrix 1er CRU 2019,0,0,France - Red,France,,Pinot Noir,,,,,2022-03-01 18:11:15,1
 2060973940657,Domaine des Rouges Queues Bourgogne Hautes-Cotes-de-Beaune Rouge 2019,0,110000,France - Red,France,110000,Pinot Noir,65000,,,,2022-03-14 22:23:37,0
 2016106383433,Domaine des Rouges Queues Celsius Coteaux Bourguignons 2018,0,90000,France - Red,France,90000,Gamay,55000,,,,2022-03-14 22:25:29,0
@@ -137,7 +137,7 @@
 3114080400050,Louis Roederer Brut Primier Champagne 242 Collection,0,0,France - Sparkling,France,,Blend,,,,,2022-03-01 17:22:28,1
 3114080043059,Louis Roederer Cristal Brut Champagne(Millesime),0,0,France - White,France,,Blend,,,,,2022-03-01 17:39:24,2
 8032793972150,Luca Bosio Moscato d'Asti,0,0,Italy - White,Italy,,Muscat Blanc,,,,,2022-02-28 16:58:01,0
-3547102222000,M de Minuty M Rose 2020,0,48000,France - Rose,France,48000,Blend,,,,,2022-03-17 19:41:56,4
+3547102222000,M de Minuty M Rose 2020,0,48000,France - Rose,France,48000,Blend,,,,,2022-03-17 19:41:56,3
 8001935114505,Marchese Antinori Chianti Classico Riserva Tenuta Tignanello 2018,0,99000,Italy - Red,Italy,99000,Sangiovese,,,,,2022-03-01 18:05:23,7
 2006943329220,Marchesi Antinori Tignanello Toscana 2016,0,0,Italy - Red,Italy,,,,,,,2022-04-18 17:49:33,1
 8001935124504,Marchesi Antinori Tignanello Toscana 2018,0,0,Italy - Red,Italy,,,,,,,2022-04-18 17:48:00,1
@@ -179,7 +179,7 @@
 051497068820,Submission Chardonnay 2019,0,80000,U.S.A - White,U.S.A,80000,Chardonnay,,,,,2022-02-28 16:51:22,0
 051497219871,Submission Red Wine 2018,0,80000,U.S.A - Red,U.S.A,80000,Blend,,,,,2022-02-28 16:59:46,4
 7790975017013,Terrazas Altos del Plata Malbec 2018,0,0,Argentina - Red,Argentina,,Malbec,,,,,2022-05-02 18:58:13,5
-7790975001487,Terrazas Reserva Malbec 2018,0,65000,Argentina - Red,Argentina,65000,Malbec,,,,,2022-02-28 16:45:56,4
+7790975001487,Terrazas Reserva Malbec 2018,0,65000,Argentina - Red,Argentina,65000,Malbec,,,,,2022-02-28 16:45:56,3
 850270008110,The Atom Chardonnay 2019,0,0,U.S.A - White,U.S.A,,Chardonnay,,,,,2022-04-12 17:46:34,0
 086003255067,The Prisoner,0,155000,U.S.A - Red,U.S.A,155000,Blend,,,,,2022-03-01 17:52:03,0
 8809521453096,Thomas Morey Bourgogne Chardonnay 2018,0,0,France - White,France,,Chardonnay,,,,,2022-03-01 17:16:54,0
@@ -192,7 +192,7 @@
 3049610004104,Veuve Cliquot Brut(Carte Jaune) Champagne,0,150000,France - Sparkling,France,150000,Blend,,,,,2022-03-01 17:17:24,4
 8809799330532,Vicent & Francois Jouard Vieilles Vignes Chassane-Montrachet 1er CRU 'Les Chaumees' Clos de la Truffiere 2019,0,280000,France - White,France,280000,Chardonnay,,,,,2022-03-01 17:11:59,0
 7798145140332,Vina Cobos Bramare Valle de UCO Malbec 2018,0,0,Argentina - Red,Argentina,,Malbec,,,,,2022-03-01 17:57:42,1
-2071571635180,Vinigma Aspermont Pinot Noir 2017,0,95000,Switzerland - Red,Switzerland,95000,Pinot Noir,55000,,,,2022-02-28 16:30:44,7
+2071571635180,Vinigma Aspermont Pinot Noir 2017,0,95000,Switzerland - Red,Switzerland,95000,Pinot Noir,55000,,,,2022-02-28 16:30:44,6
 8809512347595,Vinocus 713 The Red  2014,0,0,France - Red,France,,Blend,,,,,2022-05-02 15:29:55,3
 8809512349032,Vinocus 713 The White 2020,0,0,France - White,France,,Blend,,,,,2022-05-02 15:32:20,4
 812949024913,WINC Lost Poet 2019,0,0,U.S.A - Red,U.S.A,,Blend,,,,,2022-03-24 19:59:08,2
@@ -201,3 +201,6 @@
 9418579070019,White Haven Sauvignon Blanc Marborough 2021,0,0,NewZealand - White,NewZealand,,Sauvignon Blanc,,,,,2022-03-01 16:51:19,0
 8809706757728,Wolf Blass Gold Label Regional Reserva Barossa Shiraz 2018,0,85000,Australia - Red,Australia,85000,Shiraz,,,,,2022-02-28 16:53:46,2
 7804414000969,luis felips edwards sauvignon blanc2021,0,0,Chile - White,Chile,,Sauvignon Blanc,,,,,2022-04-01 20:42:57,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
