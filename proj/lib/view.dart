@@ -49,6 +49,7 @@ class _ViewState extends State<View> {
             ),
           );
 
+          int ii = 1;
           for (Item it in cat.items) {
             result.add(
               Container(
@@ -56,6 +57,14 @@ class _ViewState extends State<View> {
                 child: Row(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
+                    Text(
+                      "$ii. ",
+                      style: TextStyle(
+                        fontWeight: FontWeight.w700,
+                        fontFamily: Settings.fontFamily,
+                        fontSize: Settings.itemFontsize,
+                      ),
+                    ),
                     Expanded(
                       child: Text(
                         it.title,
@@ -83,6 +92,7 @@ class _ViewState extends State<View> {
                 ),
               ),
             );
+            ii++;
           }
         }
 
