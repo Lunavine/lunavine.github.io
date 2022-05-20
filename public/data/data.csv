@@ -9,6 +9,7 @@
 2092601240297,Baron Daurvergne Fine Fleur de Bouzy Blanc de Noir Champagne Grand CRU 'Bouzy',0,0,France - Sparkling,France,,Blend,,,,,2022-03-29 18:25:12,1
 2006831038852,Billecart-Salmon Brut Rose Champagne,0,180000,France - Sparkling,France,180000,Blend,130000,,110000,,2022-03-04 15:15:23,0
 8437005360013,Bodega Numanthia Numanthia 2015,0,118000,Spain - Red,spain,118000,Tempranillo,,,,,2022-03-17 19:43:42,1
+8420209033531,"Bodegas Bonaval, Bonaval Cava Metodo Tradicional Brut",0,0,Spain - Sparkling,Spain,,Macabeo,,,,,2022-05-20 16:56:39,6
 8809450322586,Bouchard Pere & Fils Pouilly-Fuisse 2019,0,95000,France - White,France,95000,Chardonnay,,,,,2022-02-28 17:22:36,3
 8809488065844,Bread & Butter Chardonnay 2020,0,68000,U.S.A - White,U.S.A,68000,Chardonnay,,,,,2022-03-01 16:36:41,0
 8809706767758,Bruno Giacosa Barolo Falletto 2017,0,450000,Italy - Red,Italy,450000,Nebbiolo,,,,,2022-05-10 20:10:57,1
@@ -19,10 +20,11 @@
 2056125826078,Cape Mentelle Sauvignon Blanc Semillon 2019,0,55000,Australia - White,Australia,55000,Sauvignon Blanc,32000,,,,2022-04-04 16:26:28,6
 2053942603127,Cape Mentelle Shiraz Cabernet 2018,0,55000,Australia - Red,Australia,55000,Caber - Shiraz,35000,,,,2022-04-04 16:28:03,5
 083837005769,Castle Rock Central Coast Chardonnay 2018,0,85000,U.S.A - White,U.S.A,85000,Chardonnay,,,,,2022-02-28 17:15:48,1
-8809795473332,Caymus Vineyards Cabernet Sauvignon 2019,0,195000,U.S.A - Red,U.S.A,195000,Cabernet Sauvignon,,,,,2022-02-28 16:24:40,11
-2008815316468,Caymus Vineyards Cabernet Sauvignon 2019 1.0L,0,0,U.S.A - Red,U.S.A,,Cabernet Sauvignon,220000,,186000,,2022-02-28 16:46:13,2
+8809795473332,Caymus Vineyards Cabernet Sauvignon 2019,0,195000,U.S.A - Red,U.S.A,195000,Cabernet Sauvignon,,,,,2022-02-28 16:24:40,13
+2008815316468,Caymus Vineyards Cabernet Sauvignon 2019 1.0L,0,0,U.S.A - Red,U.S.A,,Cabernet Sauvignon,220000,,186000,,2022-02-28 16:46:13,1
 2066250841785,Caymus Vineyards Cabernet Sauvignon 2019 1.5L,0,0,U.S.A - Red,U.S.A,,Cabernet Sauvignon,360000,,288000,,2022-02-28 17:00:26,0
-2063117634146,Chandon de Briailles Corton Grand CRU Blanc 2018,0,450000,France - White,France,450000,Chardonnay,,,,,2022-03-01 16:50:06,1
+2063117634146,Chandon de Briailles Corton Grand CRU Blanc 2018,0,450000,France - White,France,450000,Chardonnay,,,,,2022-03-01 16:50:06,0
+2066577219199,Chappellet Cabernet Sauvignon(Signature) 2017,0,280000,U.S.A - Red,U.S.A,280000,Cabernet Sauvignon,,,,,2022-05-20 15:14:28,12
 081587119897,Chappellet Cabernet Sauvignon(Signature) 2018,0,250000,U.S.A - Red,U.S.A,250000,Cabernet Sauvignon,,,,,2022-03-01 17:45:32,0
 3700619334349,Charles Montclair Cabernet-Syrah 2019,0,48000,France - Red,France,48000,Caber - Shiraz,,,,,2022-02-28 16:55:09,0
 8802521204729,Chateau Brane-Cantenac Margaux(Grand CRU Classe) 2016,0,250000,France - Red,France,250000,Blend,,,,,2022-03-01 18:06:05,1
@@ -30,7 +32,7 @@
 2076191529598,Chateau Giscours Margaux Grand CRU Classe 2017,0,0,France - Red,France,,Blend,,,,,2022-04-11 18:52:00,1
 2074277651638,Chateau Haut-Brion Pessac-Leognan(Primer Grand CRU Classe) 2013,0,0,France - Red,France,,Blend,,,,,2022-02-28 14:13:57,0
 2088392694432,Chateau Haut-Brion Pessac-Leognan(Primer Grand CRU Classe) 2017,0,0,France - Red,France,,Blend,,,,,2022-02-28 14:17:46,3
-2079337827398,Chateau Latour Grand Vin Pauillac(Premier Grand CRU Classe) 2013,0,1800000,France - Red,France,1800000,Blend,,,,,2022-02-28 14:12:39,4
+2079337827398,Chateau Latour Grand Vin Pauillac(Premier Grand CRU Classe) 2013,0,1800000,France - Red,France,1800000,Blend,,,,,2022-02-28 14:12:39,3
 2061667067803,Chateau Margaux(Primier Grand CRU Classe) 2013,0,1500000,France - Red,France,1500000,Blend,1300000,,,,2022-02-28 14:10:49,4
 2028527088873,Chateau Mouton Rothschild Pauillac 2004,0,0,France - Red,France,,Blend,,,,,2022-04-11 18:43:07,0
 2087561422364,Chateau Mouton Rothschild Pauillac 2005,0,0,France - Red,France,,Blend,,,,,2022-04-11 18:44:13,0
@@ -39,27 +41,27 @@
 2035017924207,Chateau Mouton Rothschild Pauillac 2018,0,0,France - Red,France,,Blend,,,,,2022-04-11 18:45:08,1
 8802340279199,Chateau Puygueraud Francs - Cotes de Bordeaux 2016,0,0,France - Red,France,,Blend,,,,,2022-02-28 16:36:36,0
 8809026821345,Chateau Talbot Saint-Julien(Grand CRU Classe) 2003,0,455000,France - Red,France,455000,Blend,,,,,2022-03-01 17:59:29,1
-3760167974718,Chateau d'Esclans Whispering Angel Rose 2020,0,58000,France - Rose,France,58000,Blend,,,,,2022-03-01 16:52:49,0
+3760167974718,Chateau d'Esclans Whispering Angel Rose 2020,0,58000,France - Rose,France,58000,Blend,,,,,2022-03-01 16:52:49,4
 2058441128430,Chateau de Parenchere Cuvee Raphael 2017,0,68000,France - Red,France,68000,Blend,38000,,28000,,2022-03-02 16:26:18,0
-3760124891256,Chateau de la Chapelle Bordeaux 2018,0,68000,France - Red,France,68000,Blend,,,,,2022-02-28 16:51:47,0
+3760124891256,Chateau de la Chapelle Bordeaux 2018,0,68000,France - Red,France,85000,Blend,,,,,2022-02-28 16:51:47,1
 2099735321977,Christian Moreau Pere & Fils Chablis 2020,0,85000,France - White,France,85000,Pinot Gris,,,,,2022-02-28 17:17:27,0
 817611097202,Clos du Val Cabernet Sauvignon 2016,0,0,U.S.A - Red,U.S.A,,Cabernet Sauvignon,,,,,2022-04-13 16:47:58,3
 9418408080011,Cloudy Bay Pinot Noir 2019,0,108000,NewZealand - Red,NewZealand,108000,Pinot Noir,,,,,2022-03-17 19:40:17,3
-9418408030016,Cloudy Bay Sauvignon Blanc 2021,0,98000,NewZealand - White,NewZealand,98000,Sauvignon Blanc,,,,,2022-02-28 17:02:50,4
+9418408030016,Cloudy Bay Sauvignon Blanc 2021,0,98000,NewZealand - White,NewZealand,98000,Sauvignon Blanc,,,,,2022-02-28 17:02:50,2
 2074623787479,Cloudy bay Te Koko 2019,0,185000,NewZealand - White,NewZealand,185000,,135000,,,,2022-04-05 00:00:34,3
 8809799332673,Comtesse Bernard de Cherisey Puligny-Montrachet 1er CRU 'Hameau de Blagny' 2019,0,350000,France - White,France,350000,Chardonnay,,,,,2022-03-01 17:02:20,0
 7804320402703,Cono Sur 20 Barrels Limited Edition Cabernet Sauvignon 2017,0,0,Chile - Red,Chile,,Cabernet Sauvignon,,,,,2022-03-01 18:17:41,0
 7804320401102,Cono Sur 20 Barrels Limited Edition Pinot Noir 2018,0,0,Chile - Red,Chile,,Pinot Noir,,,,,2022-02-28 16:49:47,0
 2060590707572,Conundrum White Blend 2019,0,85000,U.S.A - White,U.S.A,85000,Blend,45000,,,,2022-04-04 16:24:04,3
 2055358992833,Copper Cane Belle Glos Clark & Telephone Pinot Noir 2020,0,0,U.S.A - Red,U.S.A,180000,Pinot Noir,110000,,,,2022-04-29 21:07:59,2
-9320859000848,Cullen Mangan Vineyard Red Moon 2019,0,79000,Australia - Red,Australia,79000,Blend,45000,,,,2022-04-14 15:42:14,7
+9320859000848,Cullen Mangan Vineyard Red Moon 2019,0,79000,Australia - Red,Australia,79000,Blend,45000,,,,2022-04-14 15:42:14,6
 2048885795756,David Duband Grand CRU Clos Vougeot 2014,0,540000,France - Red,France,540000,,,,,,2022-05-10 20:22:03,2
 7804395004048,De Martino Single Vineyard La Cancha Cabernet Sauvignon 2018,0,0,Chile - Red,Chile,,Cabernet Sauvignon,,,,,2022-03-01 18:11:40,0
 082242015486,Diora La Splendeur Du Soleil Chardonnay 2019,0,85000,U.S.A - White,U.S.A,85000,Chardonnay,55000,,35000,,2022-03-04 18:14:27,17
-082242013079,Diora Pinot Noir 2018,0,85000,U.S.A - Red,U.S.A,85000,Pinot Noir,,,,,2022-04-12 17:47:36,7
+082242013079,Diora Pinot Noir 2018,0,85000,U.S.A - Red,U.S.A,85000,Pinot Noir,,,,,2022-04-12 17:47:36,13
 850976007028,Dog Point Sauvignon Blanc 2018,0,88000,NewZealand - White,NewZealand,88000,Sauvignon Blanc,,,,,2022-02-28 17:13:06,1
 2001600133066,Dom Perignon Brut Champagne 2012,0,490000,France - Sparkling,France,490000,Blend,360000,,285000,,2022-03-10 19:29:42,3
-2027553571250,Domaine Bertagna Bourgogne Chardonnay 'Les Croix Blanches' 2018,0,99000,France - White,France,99000,Chardonnay,,,,,2022-04-14 15:46:10,7
+2027553571250,Domaine Bertagna Bourgogne Chardonnay 'Les Croix Blanches' 2018,0,99000,France - White,France,99000,Chardonnay,,,,,2022-04-14 15:46:10,6
 8809740687340,Domaine Boigey Freres Bourgogne Pinot Noir 2019,0,65000,France - Red,France,65000,Pinot Noir,,,,,2022-02-28 16:44:59,1
 3337690191204,Domaine Bouchard Pere & Fils Gevrey-Chambertin 2017,0,0,France - Red,France,,,,,,,2022-04-25 15:04:45,0
 2012013951888,Domaine Chandon de Briailles Svigny-les-Beaune 'Aux Fournaux' 2018,0,0,France - Red,France,185000,Pinot Noir,,,,,2022-05-17 16:05:13,4
@@ -68,14 +70,14 @@
 2098868203341,Domaine Didier et Patricia Chevillon Gevrey-Chmbertin 2018,0,0,France - Red,France,,,,,,,2022-04-25 15:16:49,1
 2033478873669,Domaine Jessiaume Beaune 1er CRU 'Les Cents Vignes' 2017,0,0,France - Red,France,,,,,,,2022-04-25 15:09:38,0
 2008508210264,Domaine Jessiaume Volnay 2017,0,125000,France - Red,France,125000,,,,,,2022-04-25 15:13:54,0
-8809706768120,Domaine Jobard-Morey Meursault2018,0,0,France - White,France,,,,,,,2022-04-12 17:46:36,1
+8809706768120,Domaine Jobard-Morey Meursault2018,0,0,France - White,France,,,,,,,2022-04-12 17:46:36,0
 8809521454178,Domaine Marc Morey Puligny-Montrachet 1er CRU 'Les Referts' 2018,0,0,France - White,France,,Chardonnay,240000,,185000,,2022-03-08 15:23:00,0
 2009682554434,Domaine Meo-Camuset Chambolle-Musigny 1er CRU 'Les Cras' 2019,0,0,France - Red,France,,Pinot Noir,385000,,285000,,2022-03-11 15:56:38,0
 2051182406256,Domaine Michel Noellat Clos de Vougeot Grand CRU 2017,0,495000,France - Red,France,495000,,,,,,2022-04-18 18:01:44,1
 2036142484796,Domaine Michel Noellat Nuit-Saint-Georges 1er CRU 'Aux Boudots' 2016,0,355000,France - Red,France,355000,,,,,,2022-04-18 17:59:58,1
-8809799339283,Domaine Philippe Charlopin Bourgogne Cote d'Or 2020,0,0,France - White,France,,,,,,,2022-05-09 17:56:07,1
-8809799339474,Domaine Philippe Charlopin Cote de Nuit-Villages 2019,0,0,France - Red,France,,,,,,,2022-05-09 17:53:04,2
-2036361395330,Domaine Sylvain Morey Bourgogne Aligote 2019,0,95000,France - White,France,95000,Chardonnay,,,,,2022-04-19 16:24:07,4
+8809799339283,Domaine Philippe Charlopin Bourgogne Cote d'Or 2020,0,0,France - White,France,,,,,,,2022-05-09 17:56:07,0
+8809799339474,Domaine Philippe Charlopin Cote de Nuit-Villages 2019,0,0,France - Red,France,,,,,,,2022-05-09 17:53:04,1
+2036361395330,Domaine Sylvain Morey Bourgogne Aligote 2019,0,95000,France - White,France,95000,Chardonnay,,,,,2022-04-19 16:24:07,0
 2010694840231,Domaine Sylvain Morey Chassagne-Montrachet Blanc 2019,0,195000,France - White,France,195000,Chardonnay,,,,,2022-04-19 16:22:37,1
 2054355333588,Domaine Sylvain Morey Santenay 1er CRU 'Grand Clos Rousseau' 2018,0,0,France - Red,France,,Pinot Noir,,,,,2022-03-01 18:08:36,0
 3355820083755,Domaine de la Vougeraie Chardonnay Terres de Famille 2019,0,120000,France - White,France,120000,Chardonnay,,,,,2022-03-24 13:39:43,0
@@ -87,7 +89,7 @@
 2016106383433,Domaine des Rouges Queues Celsius Coteaux Bourguignons 2018,0,90000,France - Red,France,90000,Gamay,55000,,,,2022-03-14 22:25:29,0
 2067825076724,Domaine des Rouges Queues En Buliet Maranges 2018,0,120000,France - Red,France,120000,Pinot Noir,85000,,,,2022-03-14 22:21:13,0
 2047615971507,Domaine des Rouges Queues Maranges Blanc 2019,0,150000,France - White,France,150000,Chardonnay,92000,,70000,,2022-03-11 17:39:18,0
-2096050092872,Domaine des Rouges Queues Saint Jean de Narosse Santenay Blanc 2019,0,140000,France - White,France,140000,Chardonnay,110000,,78000,,2022-03-11 17:35:51,2
+2096050092872,Domaine des Rouges Queues Saint Jean de Narosse Santenay Blanc 2019,0,140000,France - White,France,140000,Chardonnay,110000,,78000,,2022-03-11 17:35:51,1
 3469380630615,Drappier Charles de Gaulle Brut Champagne,0,0,France - Sparkling,France,,Pinot Noir,,,,,2022-03-01 17:09:46,2
 869285474728,Duckhorn Decoy Pinot Noir 2019,0,0,U.S.A - Red,U.S.A,,Pinot Noir,,,,,2022-02-28 16:27:46,0
 8809495036585,Duckhorn Decoy Red Wine 2019,0,80000,U.S.A - Red,U.S.A,80000,Blend,,,,,2022-02-28 16:22:50,0
@@ -100,15 +102,15 @@
 8809706774787,El Enemigo Chardonnay 2019,0,0,Argentina - White,Argentina,,Chardonnay,,,,,2022-03-01 16:41:34,0
 2024040062017,Eric de Suremain - Chateau de Monthelie 1er CRU 'Sur La Velle' 2011,0,220000,France - Red,France,220000,Blend,117000,,78000,,2022-03-01 18:13:50,0
 2016769284450,Famille Carabello Baum Bourgogne Chardonnay 2018,0,110000,France - White,France,110000,Chardonnay,85000,,76000,,2022-02-28 17:09:14,0
-850017337503,Far Niente Family Post & Beam Cabernet Sauvignon 2019,0,0,U.S.A - Red,U.S.A,,Cabernet Sauvignon,130000,,91200,,2022-02-28 16:44:20,3
+850017337503,Far Niente Family Post & Beam Cabernet Sauvignon 2019,0,0,U.S.A - Red,U.S.A,,Cabernet Sauvignon,130000,,91200,,2022-02-28 16:44:20,2
 850017337510,Far Niente Family Post & Beam Chardonnay 2020,0,0,U.S.A - White,U.S.A,,Chardonnay,89000,,66000,,2022-02-28 16:42:14,1
 8019873001016,Farnese Fantini Casale Vecchio Montepulciano d'Abruzzo 2019,0,55000,Italy - Red,Italy,55000,Montepulciano,35000,,25000,,2022-03-04 15:21:44,0
 8030967019311,Fattoria le Pupille Morellino di Scansano 2019,0,65000,Italy - Red,Italy,65000,Sangiovese,45000,,35000,,2022-03-04 18:09:04,2
 8809703199149,Franck Bonville Cuvee Prestige Champagne Grand CRU,0,0,France - White,France,,Chardonnay,,,,,2022-03-01 17:29:29,0
 2023376462980,Gaja S.s Agricola Barolo Dagromis 2017,0,380000,Italy - Red,Italy,380000,Nebbiolo,,,,,2022-05-10 20:13:51,1
-2034612998521,Geyser Peak Chardonnay 2017,0,0,U.S.A - White,U.S.A,55000,Chardonnay,30000,,,,2022-05-10 23:57:57,11
+2034612998521,Geyser Peak Chardonnay 2017,0,0,U.S.A - White,U.S.A,55000,Chardonnay,30000,,,,2022-05-10 23:57:57,21
 8388766407960,Giuseppe Papetti Appassimento Negroamaro,0,55000,Italy - Red,Italy,55000,Negroamaro,30000,,,,2022-02-28 16:52:56,0
-2040453533821,Glenmorangie 18Y,0,400000,Single Malt Scotch Whisky,,400000,,275000,,,,2022-03-18 19:01:28,2
+2040453533821,Glenmorangie 18Y,0,400000,Single Malt Scotch Whisky,,400000,,275000,,,,2022-03-18 19:01:28,1
 8802340283813,Grant Burge Barossa Filsell Shiraz 2018,0,88000,Australia - Red,Australia,88000,Shiraz,,,,,2022-02-28 16:40:21,2
 9315705005405,Grant Burge Meshach Barossa Shiraz 2016,0,350000,Australia - Red,Australia,350000,Shiraz,,,,,2022-04-11 18:49:45,1
 2071824120692,Hudelot Baillet Bourgogne Pinot Noir 2019,0,65000,France - Red,France,65000,Pinot Noir,,,,,2022-02-28 16:55:18,0
@@ -128,25 +130,25 @@
 5000267114279,Johnnie Walker Blue Label,0,0,Scotch Whisky,Scothland,550000,,,,,,2022-04-21 17:42:13,0
 084444100168,Jordan Cabernet Sauvignon 2016,0,180000,U.S.A - Red,U.S.A,180000,Cabernet Sauvignon,,,,,2022-03-01 17:46:07,4
 8809495031832,Joseph Phelps Innisfree Cabernet Sauvignon 2017,0,0,U.S.A - Red,U.S.A,,Cabernet Sauvignon,,,,,2022-02-28 16:34:39,0
-2088020466646,Joseph Phelps Insignia 2018,0,850000,U.S.A - Red,U.S.A,850000,Blend,,,,,2022-02-28 14:15:41,3
-081584013174,Kendall-Jackson Vintner's Reserve Cabernet Sauvignon 2019,0,75000,U.S.A - Red,U.S.A,75000,Cabernet Sauvignon,,,,,2022-04-01 20:48:31,5
+2088020466646,Joseph Phelps Insignia 2018,0,850000,U.S.A - Red,U.S.A,850000,Blend,,,,,2022-02-28 14:15:41,2
+081584013174,Kendall-Jackson Vintner's Reserve Cabernet Sauvignon 2019,0,75000,U.S.A - Red,U.S.A,75000,Cabernet Sauvignon,,,,,2022-04-01 20:48:31,4
 081584013105,Kendall-Jackson Vintner's Reserve Chardonnay 2020,0,75000,U.S.A - White,U.S.A,75000,Chardonnay,,,,,2022-04-01 20:45:10,2
 3258064099370,Krug Grande Cuvee Brut Champagne 169EME Edition,0,590000,France - Sparkling,France,590000,Blend,,,,,2022-03-01 17:27:57,7
 2094312613520,Krupp Brothers The Banker Stagecoach Vineyard Red 2019,0,0,U.S.A - Red,U.S.A,,Blend,280000,,,,2022-03-16 22:00:31,0
 8022252211715,La Spinetta Biancospino Moscato d'Asti 2021,0,58000,Italy - White,Italy,58000,Muscat Blanc,40000,,30000,,2022-03-15 17:50:28,0
-7798126080251,Laura Catena Luca Chardonnay 2019,0,85000,Argentina - White,Argentina,85000,Chardonnay,,,,,2022-05-02 17:04:41,7
+7798126080251,Laura Catena Luca Chardonnay 2019,0,85000,Argentina - White,Argentina,85000,Chardonnay,,,,,2022-05-02 17:04:41,4
 3258431220000,Laurent-Perrier la Cuvee Brut Champagne,0,0,France - Sparkling,France,,Blend,,,,,2022-03-01 17:24:17,0
 8005068002234,Le Contesse Cuvee Extra Dry,0,0,Italy - Sparkling,Italy,,Prosecco,,,,,2022-02-28 17:06:53,7
 7800582409979,Leroy Bourgogne Blanc 2016,0,0,France - White,France,,Blend,,,,,2022-03-01 16:52:44,0
 3700026430719,Les Deesses Muettes Pinot Noir Saint-Guilhem-le-Desert 2020,0,55000,France - Red,France,55000,Pinot Noir,,,,,2022-02-28 16:49:21,2
 8809799338378,Louis Falmon Billecart-Salmon Brut Blanc de Blancs Champagne 2008,0,0,France - Sparkling,France,,,,,,,2022-05-03 16:34:31,2
 3566921001177,Louis Latour Bourgogne Chardonnay 2020,0,0,France - White,France,,Chardonnay,,,,,2022-04-27 15:34:18,0
-2098085724605,Louis Latour Chablis 2020,0,110000,France - White,France,110000,Chardonnay,68000,,,,2022-04-04 16:29:49,1
+2098085724605,Louis Latour Chablis 2020,0,110000,France - White,France,110000,Chardonnay,68000,,,,2022-04-04 16:29:49,4
 3114080400050,Louis Roederer Brut Primier Champagne 242 Collection,0,0,France - Sparkling,France,,Blend,,,,,2022-03-01 17:22:28,1
 3114080043059,Louis Roederer Cristal Brut Champagne(Millesime),0,0,France - White,France,,Blend,,,,,2022-03-01 17:39:24,2
 8032793972150,Luca Bosio Moscato d'Asti,0,0,Italy - White,Italy,,Muscat Blanc,,,,,2022-02-28 16:58:01,0
 7804414000969,Luis Felipe Edwards Sauvignon Blanc 2021,0,0,Chile - White,Chile,,Sauvignon Blanc,,,,,2022-04-01 20:42:57,0
-3547102222000,M de Minuty M Rose 2020,0,48000,France - Rose,France,48000,Blend,,,,,2022-03-17 19:41:56,3
+3547102222000,M de Minuty M Rose 2020,0,48000,France - Rose,France,48000,Blend,,,,,2022-03-17 19:41:56,2
 8001935114505,Marchesi Antinori Chianti Classico Riserva Tenuta Tignanello 2018,0,99000,Italy - Red,Italy,99000,Sangiovese,,,,,2022-03-01 18:05:23,6
 2006943329220,Marchesi Antinori Tignanello Toscana 2016,0,0,Italy - Red,Italy,,,,,,,2022-04-18 17:49:33,1
 8001935124504,Marchesi Antinori Tignanello Toscana 2018,0,0,Italy - Red,Italy,,,,,,,2022-04-18 17:48:00,1
@@ -166,16 +168,16 @@
 810411010334,Naveran Cava Vintage Brut 2019,0,0,Spain - Sparkling,Spain,,Parellada,,,,,2022-03-01 17:25:04,0
 684659980281,No Brainer Merlot 2019,0,68000,U.S.A - Red,U.S.A,68000,Merlot,,,,,2022-02-28 16:47:15,3
 3442320945529,Olivier Leflaive Chassagne-Montrachet Blanc 2017,0,280000,France - White,France,280000,Pinot Noir,,,,,2022-03-01 17:05:27,0
-2009682876697,Opus One 2018,0,0,U.S.A - Red,U.S.A,900000,Blend,,,,,2022-02-28 14:16:40,4
+2009682876697,Opus One 2018,0,0,U.S.A - Red,U.S.A,900000,Blend,,,,,2022-02-28 14:16:40,1
 8802340278772,Orin Swift Papillon 2018,0,0,U.S.A - Red,U.S.A,,Blend,,,,,2022-03-28 22:49:58,1
 8802340283066,Pierre Girardin Puligny-Montrachet 'Les Folatieres 2019,0,485000,France - White,France,485000,,,,,,2022-05-17 17:56:55,2
 2052297801226,Pierre-Henri Rougeot Bourgogne Cote d'Or 'Les Vaux' 2018,0,120000,France - Red,France,120000,Pinot Noir,80000,,55000,,2022-03-04 15:07:54,0
 8809488063710,Pio Cesare Barbaresco 2017,0,0,Italy - Red,Italy,150000,Nebbiolo,,,,,2022-03-24 19:57:13,2
 8809488063703,Pio Cesare Barolo 2017,0,0,Italy - Red,Italy,180000,Nebbiolo,,,,,2022-03-24 19:56:01,2
 3018333004050,Piper-Heidsieck Essential Cuvee Reservee Extra Brut Champagne 2016,0,150000,France - Sparkling,France,150000,Blend,,,,,2022-03-01 17:03:38,4
-3018333002674,Piper-Heidsieck Rare Brut Champagne(Millesime) 2008,0,550000,France - Sparkling,France,550000,Blend,385000,,315000,,2022-03-11 15:47:11,1
+3018333002674,Piper-Heidsieck Rare Brut Champagne(Millesime) 2008,0,550000,France - Sparkling,France,550000,Blend,385000,,315000,,2022-03-11 15:47:11,0
 8809581266384,Poupille Castillon 2015,0,0,France - Red,France,,Blend,,,,,2022-02-28 16:57:10,1
-8016001000101,Prunotto Moscato d'Asti 2021,0,0,Italy - White,Italy,,Muscat Blanc,,,,,2022-03-30 20:09:34,11
+8016001000101,Prunotto Moscato d'Asti 2021,0,0,Italy - White,Italy,,Muscat Blanc,,,,,2022-03-30 20:09:34,9
 087447619422,Raymond R Collection Lot No.3 Chardonnay 2019,0,0,U.S.A - White,U.S.A,,Chardonnay,,,,,2022-03-15 17:52:01,0
 087447552071,Raymond R Collection Lot No.5 Field Blend 2020,0,0,U.S.A - Red,U.S.A,,Blend,,,,,2022-04-04 18:29:48,0
 8809714847930,Remi Leroy Extra Brut Champagne,0,0,France - Sparkling,France,,Blend,,,,,2022-03-01 17:05:27,0
@@ -185,11 +187,11 @@
 8802340103142,Santa Rita Triple C Red Wine D.O Valle Del Maipo 2018,0,75000,Chile - Red,Chile,75000,Blend,,,,,2022-02-28 16:20:27,0
 8802196009988,Silverado Chardonnay 2018,0,95000,U.S.A - White,U.S.A,95000,Chardonnay,68000,,53400,,2022-02-28 17:24:41,4
 2056907535488,Silverado Napa Valley Estate Grown Cabernet Sauvignon 2018,0,160000,U.S.A - Red,U.S.A,160000,Cabernet Sauvignon,99000,,,,2022-03-04 15:18:23,2
-051497068820,Submission Chardonnay 2019,0,80000,U.S.A - White,U.S.A,80000,Chardonnay,,,,,2022-02-28 16:51:22,0
-051497219871,Submission Red Wine 2018,0,80000,U.S.A - Red,U.S.A,80000,Blend,,,,,2022-02-28 16:59:46,3
+051497068820,Submission Chardonnay 2019,0,80000,U.S.A - White,U.S.A,80000,Chardonnay,,,,,2022-02-28 16:51:22,12
+051497219871,Submission Red Wine 2018,0,80000,U.S.A - Red,U.S.A,80000,Blend,,,,,2022-02-28 16:59:46,2
 7790975017013,Terrazas Altos del Plata Malbec 2018,0,0,Argentina - Red,Argentina,,Malbec,,,,,2022-05-02 18:58:13,0
 7790975001487,Terrazas Reserva Malbec 2018,0,65000,Argentina - Red,Argentina,65000,Malbec,,,,,2022-02-28 16:45:56,5
-850270008110,The Atom Chardonnay 2019,0,0,U.S.A - White,U.S.A,,Chardonnay,,,,,2022-04-12 17:46:34,0
+850270008110,The Atom Chardonnay 2019,0,0,U.S.A - White,U.S.A,,Chardonnay,,,,,2022-04-12 17:46:34,12
 086003255067,The Prisoner,0,155000,U.S.A - Red,U.S.A,155000,Blend,,,,,2022-03-01 17:52:03,0
 8809706779348,The Prisoner Wine Company Saldo Zinfandel,0,0,U.S.A - Red,U.S.A,180000,,120000,,,,2022-04-27 15:28:41,3
 8809521453096,Thomas Morey Bourgogne Chardonnay 2018,0,0,France - White,France,,Chardonnay,,,,,2022-03-01 17:16:54,0
@@ -210,4 +212,4 @@
 9416621904084,Wairau River Sauvignon Blanc 2021,0,0,White Wine,NewZealand,,Sauvignon Blanc,,,,,2022-03-01 16:54:34,0
 089636190002,Wente Morning Fog Chardonnay Central Coast 2020,0,0,U.S.A - White,U.S.A,,Chardonnay,,,,,2022-03-01 16:48:09,0
 9418579070019,White Haven Sauvignon Blanc Marborough 2021,0,0,NewZealand - White,NewZealand,,Sauvignon Blanc,,,,,2022-03-01 16:51:19,0
-8809706757728,Wolf Blass Gold Label Regional Reserva Barossa Shiraz 2018,0,85000,Australia - Red,Australia,85000,Shiraz,,,,,2022-02-28 16:53:46,2
+8809706757728,Wolf Blass Gold Label Regional Reserva Barossa Shiraz 2018,0,85000,Australia - Red,Australia,85000,Shiraz,,,,,2022-02-28 16:53:46,4
