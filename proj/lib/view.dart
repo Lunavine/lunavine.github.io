@@ -5,6 +5,7 @@ import 'dart:convert' as convert;
 
 import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
+import 'package:winelist/cp949/cp949.dart' as cp949;
 
 class View extends StatefulWidget {
   const View({Key? key}) : super(key: key);
@@ -119,9 +120,6 @@ class _ViewState extends State<View> {
   double marginTop = 50;
 
   // https://medium.com/geekculture/loading-new-fonts-in-flutter-app-after-deployment-ttf-otf-ffe9c13ffcd1
-
-  // TODO:::
-
   Future<ByteData> fetchFont({required String fontname}) async {
     final http.Response response =
         await http.get(Uri.parse("./public/data/" + fontname));
@@ -130,10 +128,14 @@ class _ViewState extends State<View> {
 
   Future<List<List<dynamic>>> dataLoader({required String dataname}) async {
     http.Response res = await http.get(Uri.parse("./public/data/" + dataname));
-    List<List<dynamic>> csvResult =
-        resultToCsv(convert.utf8.decode(res.bodyBytes));
 
-    print(csvResult);
+    List<List<dynamic>> csvResult = [];
+
+    try {
+      csvResult = resultToCsv(convert.utf8.decode(res.bodyBytes));
+    } catch (err) {
+      csvResult = resultToCsv(cp949.decode(res.bodyBytes));
+    }
 
     csvResult.removeAt(0);
     return csvResult;

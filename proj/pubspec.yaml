@@ -15,6 +15,13 @@ dependencies:
   http: ^0.13.4
   intl: ^0.17.0
 
+  # 유니코드 이슈 해결 (EUC-KR)
+  # https://github.com/jjangga0214/dart-cp949
+  # cp949: ^1.2.1
+  # NNBD 지원되는 패키지 직접 import
+
+  url_strategy: ^0.2.0
+
 
 dev_dependencies:
   flutter_test:
