@@ -1,11 +1,11 @@
 {
-    "name": "Lunavine",
-    "short_name": "Lunavine",
+    "name": "winelist",
+    "short_name": "winelist",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#FFFFFF",
-    "theme_color": "#323234",
-    "description": "Lunavine",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

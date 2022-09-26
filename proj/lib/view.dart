@@ -119,16 +119,22 @@ class _ViewState extends State<View> {
   double marginTop = 50;
 
   // https://medium.com/geekculture/loading-new-fonts-in-flutter-app-after-deployment-ttf-otf-ffe9c13ffcd1
+
+  // TODO:::
+
   Future<ByteData> fetchFont({required String fontname}) async {
     final http.Response response =
-        await http.get(Uri.parse("./public/data/font.ttf"));
+        await http.get(Uri.parse("./public/data/" + fontname));
     return ByteData.view(response.bodyBytes.buffer);
   }
 
   Future<List<List<dynamic>>> dataLoader({required String dataname}) async {
-    http.Response res = await http.get(Uri.parse("./public/data/data.csv"));
+    http.Response res = await http.get(Uri.parse("./public/data/" + dataname));
     List<List<dynamic>> csvResult =
         resultToCsv(convert.utf8.decode(res.bodyBytes));
+
+    print(csvResult);
+
     csvResult.removeAt(0);
     return csvResult;
   }
@@ -200,16 +206,12 @@ class _ViewState extends State<View> {
           if (price == 0 || qt == 0) {
             continue;
           }
-          // print(price);
-          // print(productName);
-          // print(qt);
-          // print("==============");
 
           newcat.items.add(Item(title: productName, price: price));
         }
       }
 
-      if (newcat.items.length != 0) {
+      if (newcat.items.isNotEmpty) {
         data.add(newcat);
       }
     }
